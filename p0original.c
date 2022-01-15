@@ -1,7 +1,7 @@
 #include<stdio.h>
-void main()
+int main()
 {
   printf("MY NAME IS PREETHAM");
-  RETURN 0;
+  return 0;
 }
 
