@@ -12,6 +12,6 @@ void add()
 }
 int main()
 {
-  add();
+  add(); // fucntion call
   return 0;
 }
