@@ -1,5 +1,4 @@
 //add two nmbers
-
 #include<stdio.h>
 void add()
 {
